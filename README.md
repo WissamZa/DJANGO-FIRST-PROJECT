@@ -4,7 +4,7 @@
 
 ### Choose any name for your project .
 
-![alt text](http://github.com/WissamZa/DJANGO-FIRST-PROJECT/django.png)
+![alt text]([http://github.com/WissamZa/DJANGO-FIRST-PROJECT/django.png](https://github.com/WissamZa/DJANGO-FIRST-PROJECT/blob/main/django.png?raw=true))
 
 #### After creating a virtual environment and activating it:
 
